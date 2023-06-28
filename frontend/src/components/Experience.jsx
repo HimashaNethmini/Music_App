@@ -14,14 +14,14 @@ function Experience() {
         {/* haeding */}
         <div className='headline mt-7 flex flex-col items-center
         text-[2rem]'>
-            <span>Unlock the secrets that captivated my mind and heart! </span>
+            <span>Unlock the secrets that captivated mind and heart! </span>
             <span>
                 <b>Music Experience</b>
             </span>
         </div>
         {/* features */}
-        <div className='feature'> {/*flex items-center justify-around
-        mt-[6rem] w-[100%]'> */}
+        <div className='feature flex items-center justify-around
+        mt-[6rem] w-[100%]'> 
             <Feature icon="Group 2" title="For Live Music" />
             <Feature icon="music icon" title="For Daily Music" />
             <Feature icon="Group 4" title="For Artists" />
